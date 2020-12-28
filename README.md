@@ -2,6 +2,7 @@
 Nice Hoidam Clock  
 This clock uses SDL2 to render image.  
 If you try to download and use it, remember to add SDL2 librery and dependencies by yourself.  
-Config: 
+Config:  
 -SDL2  
--SDL2_image  
+-SDL2_image   
+![stop](https://github.com/markm812/hoidamClock/blob/master/res/stopitgetsomehelp.png?raw=true)
